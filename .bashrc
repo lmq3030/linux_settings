@@ -8,6 +8,7 @@ export LD_LIBRARY_PATH=./build/debug
 
 export TERM="xterm-256color"
 
+alias cd-="cd -"
 alias cd..="cd .."
 alias cd..2="cd ../.."
 alias cd..3="cd ../../.."
